@@ -13,3 +13,8 @@ Hamazon, your Fine Purveyors of Pork Products since 2010, is an example app I us
 - Blake the Buyer
 
 It&#8217;s my hope that others will start using Hamazon and contribute back to it. Code contributions would be welcome, but even just using it spreads the benefits of Convention Over Configuration: it helps us eliminate trivial choices. Just have some Hamazon. You know you want to.
+
+## Additional Resources
+
+- [Bacon mockup](http://baconmockup.com/) is placekitten for bacon.
+- [Bacon ipsum](http://baconipsum.com/) is just what it sounds like. (Note: [Lorem Ipsum is a lie!](https://twitter.com/jonathanpberger/status/753960310164353024))
