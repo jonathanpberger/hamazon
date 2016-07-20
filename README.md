@@ -1,6 +1,6 @@
 # Introducing Hamazon.com (for all your example-app needs)
 
-Hamazon, your Fine Purveyors of Pork Products since 2010, is an example app I use so as to have a consistent example whenever I tell stories. In the spirit of Convention Over Configuration, it&#8217;s helpful to have a go-to narrative rather than inventing a new example for every story. Because Hamazon bears striking similarities to a certain e-commerce site, most people grok it quickly, and because the default Pivotal Tracker Sample Project is an e-commerce site, it&#8217;s easy to quickly generate a new Hamazon backlog at any time.
+Hamazon ("Your Fine Purveyors of Pork Products since 2010"), is a fictitious example app I use so as to have a consistent example when telling stories. In the spirit of Convention Over Configuration, it&#8217;s helpful to have a go-to narrative rather than inventing a new example for every story. Because Hamazon bears striking similarities to a certain e-commerce site, most people grok it quickly, and because the default Pivotal Tracker Sample Project is an e-commerce site, it&#8217;s easy to quickly generate a new Hamazon backlog at any time.
 
 ## Hamazon v0.1 includes:
 
