@@ -45,3 +45,6 @@ group :development do
   gem 'spring'
 end
 
+gem 'spree', '~> 3.1.0'
+gem 'spree_auth_devise', '~> 3.1.0'
+gem 'spree_gateway', '~> 3.1.0'
