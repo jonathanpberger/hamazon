@@ -14,6 +14,15 @@ Hamazon ("Your Fine Purveyors of Pork Products since 2010"), is a fictitious exa
 
 It&#8217;s my hope that others will start using Hamazon and contribute back to it. Code contributions would be welcome, but even just using it spreads the benefits of Convention Over Configuration: it helps us eliminate trivial choices. Just have some Hamazon. You know you want to.
 
+## Running the Spree app
+- `git clone` etc. etc.
+- `rvm use 2.0.0-p481`
+- `bundle`
+- `rake db:reset && rake db:migrate`
+- `rake db:seed` # to create admin account
+- # `rake spree_sample:load` # load piggy samples
+- `rails s`
+
 ## Additional Resources
 
 - [Bacon mockup](http://baconmockup.com/) is placekitten for bacon.
