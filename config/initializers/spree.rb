@@ -11,4 +11,12 @@ Spree.config do |config|
   # config.site_name = "Spree Demo Site"
 end
 
+Spree.config do |config|
+  # Example:
+  # Uncomment to stop tracking inventory levels in the application
+  # config.track_inventory_levels = false
+  config.logo = 'hamazon_logo-107x50.png'
+
+end
+
 Spree.user_class = "Spree::User"
