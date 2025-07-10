@@ -9,7 +9,7 @@
 
 [Doylist](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) explanation: Hamazon ("Your Fine Purveyors of Pork Products since 2010"), is a fictitious example app I use so as to have a consistent example when telling stories. In the spirit of Convention Over Configuration, it&#8217;s helpful to have a go-to narrative rather than inventing a new example for every story. Because Hamazon bears striking similarities to a certain e-commerce site, most people grok it quickly, and because the default Pivotal Tracker Sample Project is an e-commerce site, it&#8217;s easy to quickly generate a new Hamazon backlog at any time.
 
-[Watsonian](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) explanation: Hamazon is a two-sided marketplace, helping Artisenal pork farmers sell their wares to effete hipster city-dwelling gourmands.
+[Watsonian](https://tvtropes.org/pmwiki/pmwiki.php/Main/WatsonianVersusDoylist) explanation: Hamazon is a two-sided marketplace, helping Artisanal pork farmers sell their wares to effete hipster city-dwelling gourmands.
 
 
 🐷🐷 Who uses Hamazon?
